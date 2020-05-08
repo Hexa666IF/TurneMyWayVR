@@ -1,6 +1,6 @@
 # TurneMyWayVR
 
-TurneMyWayVR is application made withe the Unity game engine to model and test furniture layouts in a room.
+TurneMyWayVR is application made with the Unity game engine to model and test furniture layouts in a room.
 
 ## Requirements
 
