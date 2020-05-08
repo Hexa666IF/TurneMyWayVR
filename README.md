@@ -23,10 +23,16 @@ Open the project with Unity. Go to File -> Build Settings -> Build
 Download and execute a release from the project's [releases page](https://github.com/Hexa666IF/TurneMyWayVR/releases).
 You'll need a VR headset for the application to run properly.
 
-Test have only been run on the Oculus Rift S, however the application might be compatible with other VR Headsets.
+Tests have only been run on the Oculus Rift S, however the application might be compatible with other VR Headsets.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Presentation
+Here you'll find the [Google Slides](https://docs.google.com/presentation/d/1NFPFLLmgaAuLL_vwMuKnJVZWCRgN4iH4tvaLQ6paPSY/edit?usp=sharing) showed during the presentation of the project.
+
+## Video
+Here you'll find a [video](https://www.youtube.com/watch?v=u4Rs9PMCWKQ) presenting our application.
 
 
 ## Authors
