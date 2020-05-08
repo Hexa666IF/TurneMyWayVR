@@ -16,10 +16,14 @@ Clone this repository and add it as a project in Unity Hub.
 git clone https://github.com/Hexa666IF/TurneMyWayVR.git
 ```
 
+## Build
+Open the project with Unity. Go to File -> Build Settings -> Build
+
 ## Execution
-
 Download and execute a release from the project's [releases page](https://github.com/Hexa666IF/TurneMyWayVR/releases).
+You'll need a VR headset for the application to run properly.
 
+Test have only been run on the Oculus Rift S, however the application might be compatible with other VR Headsets.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
